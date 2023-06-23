@@ -13,7 +13,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Asia/Lahore'
+    timeZone: 'Asia/Karachi'
   })
 }
 
@@ -29,12 +29,12 @@ async function setWeatherInformation() {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Asia/Lahore'
+        timeZone: 'Asia/Karachi'
       })
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Asia/Lahore'
+        timeZone: 'Asia/Karachi'
       })
     })
 }
