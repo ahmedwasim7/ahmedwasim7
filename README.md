@@ -2,6 +2,16 @@
 
 
 <p>Welcome to my page! </br> I'm Ahmed, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> <b>Pakistan</b>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm Full Stack Engineering working for the Canadian Health Tech startup
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily: **.js**, **.rb**, **.sql**
+- 💬 Talk to me about cricket, Javascript, new trends & startups
+- 👯 We can connect to play some games of Chess ♟
+
+<hr>
+
 <h3>Things I code with</h3>
 <p style='padding: 0px;'>
   <p> Frontend:
@@ -46,15 +56,24 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<hr>
+
+<p>Currently, the weather is: <b> 39°C, <i>haze</i></b></br>Today, the sun rises at <b>04:58</b> and sets at <b>19:10</b>.</p>
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/ahmedwasim7" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ahmedwasim7" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-wasim-8498b644/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ahmedwasim777" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
 ------------
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm Full Stack Engineering working for the Canadain Health Tech startup
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**, **.rb**, **.sql**
-- 💬 Talk to me about cricket, Javascript, new trends & startups
-- 👯 We can connect to play some games of Chess ♟
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 22 June, 11:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
-
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 23 June, 13:04 GMT+5<br /></p>
