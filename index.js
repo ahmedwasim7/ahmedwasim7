@@ -13,13 +13,13 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm'
+    timeZone: 'Asia/Lahore'
   })
 }
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=Lahore&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
     .then(r => r.json())
     .then(r => {
@@ -29,12 +29,12 @@ async function setWeatherInformation() {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Europe/Stockholm'
+        timeZone: 'Asia/Lahore'
       })
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Europe/Stockholm'
+        timeZone: 'Asia/Lahore'
       })
     })
 }
