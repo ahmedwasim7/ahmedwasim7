@@ -58,7 +58,7 @@
 
 <hr>
 
-<p>Currently, the weather is: <b> 26°C, <i>smoke</i></b></br>Today, the sun rises at <b>06:02</b> and sets at <b>17:35</b>.</p>
+<p>Currently, the weather is: <b> 24°C, <i>smoke</i></b></br>Today, the sun rises at <b>06:03</b> and sets at <b>17:34</b>.</p>
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/ahmedwasim7" target="_blank">
@@ -76,4 +76,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 12 October, 23:01 GMT+5<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 13 October, 02:01 GMT+5<br /></p>
